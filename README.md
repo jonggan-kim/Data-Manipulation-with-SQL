@@ -1,6 +1,6 @@
 ## Data manipulation with SQL
 
-Example SQL manipulation
+SQL manipulation
 
 <img src="image/SQLmanipulation.png">
 
